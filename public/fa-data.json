@@ -1,0 +1,10 @@
+[
+    {
+    "id": "f12345",
+    "bg_img": "",
+    "cover": "https://example.com/cover.jpg",
+    "title": "Sample Title",
+    "p": "This is a sample paragraph providing a brief description or content related to the title."
+  }
+  
+]

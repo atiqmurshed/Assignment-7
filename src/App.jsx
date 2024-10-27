@@ -1,17 +1,16 @@
 
-import './App.css'
-
+import './App.css';
+import Data from './components/data/data';
+import Header from './Components/Header/header';
 function App() {
  
-
   return (
     <>
-    
-      <h1 className="text-4xl bg-slate-400">Assignment-7: </h1>
-     
-      
+     <Header></Header>
+      <Data></Data>
+   
     </>
   )
 }
 
-export default App
+export default App;
